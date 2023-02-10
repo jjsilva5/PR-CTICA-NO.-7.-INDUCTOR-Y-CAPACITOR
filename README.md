@@ -115,16 +115,24 @@ frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
 1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
 
+Una bobina en corriente continua actúa diferente que un condensador, es decir deja pasar corriente (cables enrollados función conductora), sin embargo, no posee voltaje debido a que las bobinas en cc actúan como un corto circuito 
+Un condensador real en CC se comporta prácticamente como uno ideal, es decir, como un circuito abierto. Esto es así en régimen permanente ya que en régimen transitorio, esto es, al conectar o desconectar un circuito con condensador, suceden fenómenos eléctricos transitorios que inciden sobre la diferencia de potencial en sus bornes (ver circuitos serie RL y RC).
 
 
 2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
+
+Capacitores en CA
+En este caso, sucede todo lo contrario: EL CONDENSADOR DEJA PASAR CORRIENTE, Y TAMBIEN ESTA LA PRESENCIA DE VOLTAJE, todo debido al efecto que tiene la corriente alterna en el elemento. Los condensadores se utilizan en la práctica para “Adelantar corriente y atrasar voltaje”, dependiendo para así mejorar el factor de potencia
+
+Boninas en CA
+Cuando las bobinas son sometidas a corriente con frecuencia (A.C.), cumplen su función de inductancia, con esto ADEMAS DE POSEER CORRIENTE ESTA LA PRESENCIA DE VOLTAJE, debido al efecto de frecuencia. Las bobinas se utilizan en la práctica para “Adelantar voltaje y retrasar corriente” dependiendo de cómo se utiliza para mejorar el factor de potencia
 
 
 3.- ¿Qué cree usted que ocurriría con el voltaje  y la corriente de la resistencia en los
 circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores
 distintos?
 
-
+El voltaje y amperaje va a variar sea en incremento o decremento de acuerdo al valor de capacitancia/inductancia de cada componente ya que estos conservan su resistencia individual y por ende esta puede ser calculada en paralelo para encontrar el valor generado en la resistencia de 100ohm
 
 4.- ¿Qué son los valores eficaces de voltaje y corriente?
 
@@ -139,8 +147,9 @@ https://drive.google.com/file/d/13ayQL-ZyWVDABsUcBINFHxIcCApcGCyG/view?usp=shari
 6. CONCLUSIONES
 
 - Si se conecta una fuente de voltaje de cd a un capacitor, este se cargara al voltaje de la fuente.
-
 - La inductancia se puede vincular a la inercia en un sistema mecanico.
+- Gracias al osciloscopio podemos apreciar la forma de onda que refleja nuestra fuente de alimentación, para este caso sinusoidal misma que cambiara el numero de ciclos por segundo de acuerdo a la frecuencia del voltaje suministrado, pero al momento de definir una frecuencia igual a cero podemos apreciar una unica lineal lo que nos indica que es lineal o no varia con respecto del tiempo. Entonces un voltaje CC es igual a un voltaje CA con una frecuencia de 0 HZ
+- La forma de representación sinusoidal en el osciloscopio depende de los parámetros establecidos de division considerando las magnitudes como voltaje y tiempo
 
 7. BIBLIOGRAFÍA
 
