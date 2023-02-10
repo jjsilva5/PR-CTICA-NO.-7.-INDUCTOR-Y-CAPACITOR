@@ -30,7 +30,17 @@ Integrantes:
 3.3 Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los
 valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.
 
+![image](https://user-images.githubusercontent.com/117045943/217976871-7f2861cc-9b05-4429-ab14-af84af322b81.png)
 
+![image](https://user-images.githubusercontent.com/117045943/217976702-350789ff-5049-4e63-9731-a6bb3c4752e5.png)
+
+![image](https://user-images.githubusercontent.com/117045943/217977602-71429a95-cdc1-4d51-a2c5-e38c4d6b507c.png)
+
+![image](https://user-images.githubusercontent.com/117045943/217977785-179a4d2c-9546-445f-86ec-e1579fb23dd8.png)
+
+![image](https://user-images.githubusercontent.com/117045943/217977856-ef40256a-fb7d-4a39-bddc-091894a9df54.png)
+
+![image](https://user-images.githubusercontent.com/117045943/217978062-48ea852a-1993-4ecc-afc6-2c482dd4daa4.png)
 
 3.4 Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores
 de 0, 10, 50, 100, 500, 1000 . Anote los resultados.
@@ -50,6 +60,17 @@ de 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 3.5 Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la
 frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
+![image](https://user-images.githubusercontent.com/117045943/217975906-d34082ed-6096-4fcf-b245-19b375b1c42a.png)
+
+![image](https://user-images.githubusercontent.com/117045943/217975876-272f36d6-dbe9-484b-b133-77df4256f47e.png)
+
+![image](https://user-images.githubusercontent.com/117045943/217976002-3c60291c-cb6e-4a41-a857-13bdf7398cb5.png)
+
+![image](https://user-images.githubusercontent.com/117045943/217976064-29eb07c3-272c-4a00-9e4f-9077568a7120.png)
+
+![image](https://user-images.githubusercontent.com/117045943/217976183-137bda0c-943a-4aa6-bb29-87c927b11419.png)
+
+![image](https://user-images.githubusercontent.com/117045943/217976284-3f5f84bc-3ec9-4cc5-9ddd-5b394f58b813.png)
 
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
