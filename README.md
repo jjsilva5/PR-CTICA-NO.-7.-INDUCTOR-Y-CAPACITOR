@@ -88,6 +88,8 @@ frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
 4.1 Resultados
 
+![image](https://user-images.githubusercontent.com/117045943/217983178-447eb696-1212-426d-b472-1b465ffa171f.png)
+
 
 
 4.2 Preguntas Planteadas
@@ -107,7 +109,9 @@ distintos?
 
 4.- ¿Qué son los valores eficaces de voltaje y corriente?
 
+- El valor eficaz de una corriente alterna, es el valor que tendría una corriente continua que produjera la misma potencia que dicha corriente alterna, al aplicar ambas, primero una y luego otra, sobre una misma resistencia.
 
+- El voltaje RMS, o el cuadrado medio de la raíz (también llamado el voltaje eficaz), es un método de denotar una forma de onda senoidal de voltaje (forma de onda de CA) como un voltaje equivalente que representa el valor de voltaje DC que producirá el mismo efecto de calentamiento o disipación de potencia en el circuito, como esta tensión de CA. En otras palabras, la forma de onda es una forma de onda AC, pero el valor RMS permite que esta forma de onda se especifique como DC, porque es la tensión DC equivalente que entrega la misma cantidad de energía a una carga en un circuito como la señal AC hace sobre su ciclo.
 
 5. VIDEO
 
@@ -115,7 +119,9 @@ distintos?
 
 6. CONCLUSIONES
 
+- Si se conecta una fuente de voltaje de cd a un capacitor, este se cargara al voltaje de la fuente.
 
+- La inductancia se puede vincular a la inercia en un sistema mecanico.
 
 7. BIBLIOGRAFÍA
 
