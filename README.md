@@ -9,10 +9,29 @@ Integrantes:
 
 1. OBJETIVOS
 
+- Verificar el comportamiento de la bobina y el capacitor en circuitos DC.
+- Verificar el comportamiento de la bobina y el capacitor en circuitos AC.
+- Verificar las combinaciones serie y paralelo de bobinas y capacitores.
+- Familiarizarse con el uso de instrumentos de medida.
 
 
 2. MARCO TEÓRICO
 
+Inductores y capacitores son componentes electrónicos básicos que se utilizan en una amplia variedad de aplicaciones electrónicas y eléctricas. Ambos componentes tienen propiedades únicas y diferentes que los hacen útiles en diferentes contextos.
+INDUCTORES:
+ 
+![image](https://user-images.githubusercontent.com/117045943/218106473-1b42bdf8-ace5-4ee7-afd5-e7eb23054dcf.png)
+
+Un inductor es un componente que almacena energía en forma de un campo magnético. Se construye al enrollar un material conductor (generalmente cobre) en un núcleo de hierro. Cuando una corriente eléctrica fluye a través del inductor, se crea un campo magnético que almacena energía. Cuando se interrumpe la corriente, el campo magnético colapsa y libera la energía almacenada en forma de una corriente eléctrica.
+Los inductores se utilizan en una amplia variedad de aplicaciones, como filtros de frecuencia, convertidores de energía, transformadores, y circuitos de resonancia.
+
+CAPACITOR:
+
+![image](https://user-images.githubusercontent.com/117045943/218106503-60c2ecec-c1e7-475b-afef-b28a5da42c09.png)
+ 
+Por otro lado, un capacitor es un componente que almacena energía en forma de un campo eléctrico. Se construye al colocar dos placas conductivas separadas por un material aislante llamado dieléctrico. Cuando se aplica una diferencia de potencial entre las placas, se crea un campo eléctrico que almacena energía.
+Los capacitores se utilizan en una amplia variedad de aplicaciones, como filtros de frecuencia, reguladores de voltaje, condensadores de arranque en motores eléctricos, y como componentes en circuitos de acoplamiento y descarga.
+En resumen, tanto los inductores como los capacitores son componentes importantes en la electrónica y la electricidad, y cada uno tiene propiedades únicas y diferentes que los hacen útiles en diferentes contextos.
 
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO
@@ -128,3 +147,5 @@ https://drive.google.com/file/d/13ayQL-ZyWVDABsUcBINFHxIcCApcGCyG/view?usp=shari
 Laboratorio de Física, I. I., & Skigin, D. Ley de Ohm y de Kirchhoff.
 
 Floyd (8va Ed)(2007). Principios de circuitos electricos. Pearson Education
+
+Macías García, M. E., Contreras Hinojosa, C., Anaya Zamora, R., García, M. E. M., Hinojosa, C. C., & Zamora, R. A. Reactancia, potencia y energía en capacitores e inductores en CA.
