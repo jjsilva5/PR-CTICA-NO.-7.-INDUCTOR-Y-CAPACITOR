@@ -40,7 +40,16 @@ valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas obser
 
 ![image](https://user-images.githubusercontent.com/117045943/217977856-ef40256a-fb7d-4a39-bddc-091894a9df54.png)
 
-![image](https://user-images.githubusercontent.com/117045943/217978062-48ea852a-1993-4ecc-afc6-2c482dd4daa4.png)
+![image](https://user-images.githubusercontent.com/117045943/217978062-48ea852a-1993-4ecc-afc6-2c482dd4daa4.png)}
+
+![image](https://user-images.githubusercontent.com/117045943/217981798-cf8454df-a485-491d-91e2-086cc37df448.png)
+
+![image](https://user-images.githubusercontent.com/117045943/217981818-2d5faa25-15b7-480c-80ff-42b0229eac09.png)
+
+![image](https://user-images.githubusercontent.com/117045943/217981831-ebdc3157-0ec4-437e-9418-5e9c48222ada.png)
+
+![image](https://user-images.githubusercontent.com/117045943/217982400-ed5d9996-6f42-4eb9-a4f7-e3d8afa494d5.png)
+
 
 3.4 Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores
 de 0, 10, 50, 100, 500, 1000 . Anote los resultados.
