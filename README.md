@@ -109,7 +109,7 @@ frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
 ![image](https://user-images.githubusercontent.com/117045943/217983178-447eb696-1212-426d-b472-1b465ffa171f.png)
 
-
+![image](https://user-images.githubusercontent.com/117045943/218805961-ce2840b6-5ba5-430a-9012-1dee4b684f22.png)
 
 4.2 Preguntas Planteadas
 
